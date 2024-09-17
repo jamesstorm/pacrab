@@ -1,0 +1,2 @@
+# pacrab
+A pacman helper
